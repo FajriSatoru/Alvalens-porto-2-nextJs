@@ -94,7 +94,7 @@ const MyPage = () => {
 								delay: 0.2,
 								type: "spring",
 							}}>
-							Alvalen Shafel
+							M Fajar Ridho Ilham
 						</motion.h3>
 						<motion.h1
 							className="text-black text-4xl md:text-6xl lg:text-6xl 2xl:text-8xl font-bold my-2 md:my-5"
@@ -114,7 +114,7 @@ const MyPage = () => {
 								delay: 0.4,
 								type: "spring",
 							}}>
-							Hi! I&rsquo;am Alvalen, A fullstack software
+							Hi!  I&rsquo;am Fajar, A fullstack software
 							engineer specializing in modern Web Development with
 							a growing focus on Artificial Intelligence. I
 							architect scalable, production-ready engines—from
