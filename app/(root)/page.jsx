@@ -114,8 +114,8 @@ const MyPage = () => {
 								delay: 0.4,
 								type: "spring",
 							}}>
-							Hi!  I&rsquo;am Fajar, A fullstack software
-							engineer specializing in modern Web Development with
+							Hi!  I&rsquo;am Fajar, a final-year Agricultural Technology student
+							at Universitas Gadjah Mada with a focus on smart farming, IoT, and agricultural robotics engineer specializing in modern Web Development with
 							a growing focus on Artificial Intelligence. I
 							architect scalable, production-ready engines—from
 							high-traffic Java microservices to RAG-powered SaaS
