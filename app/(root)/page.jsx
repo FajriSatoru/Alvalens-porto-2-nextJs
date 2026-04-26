@@ -115,11 +115,10 @@ const MyPage = () => {
 								type: "spring",
 							}}>
 							Hi!  I&rsquo;am Fajar, a final-year Agricultural Technology student
-							at Universitas Gadjah Mada with a focus on smart farming, IoT, and agricultural robotics engineer specializing in modern Web Development with
-							a growing focus on Artificial Intelligence. I
-							architect scalable, production-ready engines—from
-							high-traffic Java microservices to RAG-powered SaaS
-							platforms.
+							at Universitas Gadjah Mada with a focus on smart farming, IoT, and agricultural robotics.
+							I’m passionate about robotics and smart farming, and currently exploring
+							precision agriculture and machine learning to create scalable,
+							real-world impact.
 						</motion.p>
 						<motion.div
 							className="buttons flex flex-row justify-center items-center space-x-4 mt-10"
