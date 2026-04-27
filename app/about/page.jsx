@@ -37,7 +37,7 @@ export default function Page() {
 					<div className="z-0 mb-48 md:mb-0  md:absolute top-1/4  md:right-[10%] md:-translate-y-16 ">
 						<motion.div
 							initial={{ scale: 1 }}
-							animate={{ scale: 1.6 }}
+							animate={{ scale: 1.2 }}
 							transition={{ ease: "circOut", duration: 1 }}
 							className="relative bg-slate-300 rounded-sm h-[400px] md:h-[600px] w-[80vw] md:w-[30vw] grayscale hover:grayscale-0 ">
 							<Image
