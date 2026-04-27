@@ -11,10 +11,10 @@ import { FullPageWrapper, Section, useFullPage } from "@alvalens/react-fullpage-
 
 // components
 import Button from "@/components/Button";
-import Me from "@/public/image/Fajar2.jpeg";
+import Me from "@/public/image/Fajar4.jpg";
 import MeAbout from "@/public/image/Fajar3.jpg";
 import Setup from "@/public/image/setup.jpg";
-import ProjectAll from "@/public/image/projects.png";
+import ProjectAll from "@/public/image/Projects1.jpg";
 import Hr from "@/components/Hr";
 // icons
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
