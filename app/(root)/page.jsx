@@ -214,8 +214,7 @@ const MyPage = () => {
 								delay: 0.2,
 								type: "spring",
 							}}>
-							A brief introduction my journey as a agriculture 
-							engineer.
+							A brief introduction my journey as a agricultural engineering students.
 						</motion.p>
 						<motion.div
 							initial={{ y: 40, opacity: 0 }}
