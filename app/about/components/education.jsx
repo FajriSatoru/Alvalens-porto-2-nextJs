@@ -10,9 +10,9 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 import { motion, AnimatePresence } from "framer-motion";
 import { useState } from "react";
-import Me4 from "@/public/image/Fajar2.jpeg";
+import Me4 from "@/public/image/Fajar7.jpeg";
 import Me5 from "@/public/image/Fajar3.jpg";
-import Me6 from "@/public/image/Fajar5.jpg";
+import Me6 from "@/public/image/Fajar6.jpg";
 
 function Wrapper({ children }) {
 	return (
