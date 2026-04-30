@@ -111,12 +111,12 @@ export default function About() {
 						type: "spring",
 					}}>
 					<h2 className="text-2xl font-bold tracking-wider mb-3">
-						Alvalen Shafelbilyunazra
+						M. Fajar Ridho Ilham
 					</h2>
 					<p className="text-gray-600 text-justify title text-lg leading-relaxed">
 						I am a{" "}
 						<span className="text-black font-medium">
-							Product-Minded Software Engineer{" "}
+							final-year Agricultural Engineering student at Universitas Gadjah Mada{" "}
 						</span>
 						specialized in bridging the gap between{" "}
 						<span className="text-black font-medium">
