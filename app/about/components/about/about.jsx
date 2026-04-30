@@ -116,9 +116,9 @@ export default function About() {
 					<p className="text-gray-600 text-justify title text-lg leading-relaxed">
 						I am a{" "}
 						<span className="text-black font-medium">
-							final-year Agricultural Engineering student at Universitas Gadjah Mada{" "}
+							final-year Agricultural Engineering student at Universitas Gadjah Mada,{" "}
 						</span>
-						specialized in bridging the gap between{" "}
+						focusing on precision agriculture, IoT-based systems, and agricultural robotics.{" "}
 						<span className="text-black font-medium">
 							Modern Web Ecosystems and Enterprise Architectures
 						</span>
