@@ -119,10 +119,9 @@ export default function About() {
 							final-year Agricultural Engineering student at Universitas Gadjah Mada,{" "}
 						</span>
 						focusing on precision agriculture, IoT-based systems, and agricultural robotics.{" "}
-						<span className="text-black font-medium">
-							Modern Web Ecosystems and Enterprise Architectures
 						</span>
-						. A Computer Science graduate from{" "}
+						My work lies at the intersection of engineering and agriculture, where I develop practical solutions to improve efficiency,
+						sustainability, and decision-making in real-world systems.{" "}
 						<span className="text-black font-medium">
 							Universitas Negeri Malang
 						</span>
